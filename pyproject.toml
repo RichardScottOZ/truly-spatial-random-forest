@@ -11,9 +11,9 @@ license = {text = "MIT"}
 requires-python = ">=3.9"
 dependencies = [
     "numpy>=1.21",
-    "scipy>=1.7",
-    "scikit-learn>=1.0",
-    "joblib>=1.0",
+    "scipy>=1.8",
+    "scikit-learn>=1.0.1",
+    "joblib>=1.2",
 ]
 
 [project.optional-dependencies]
